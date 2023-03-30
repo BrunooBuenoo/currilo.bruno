@@ -2,7 +2,6 @@
 
 ---
 # FORMAÇÃO ACADÊMICA:
-
 - Analise e desenvolvimento de sistemas - Unimar (cursando)
 - Técnico em eletroeletrônica - SENAI
 - Ensino Médio - SESI
@@ -10,8 +9,11 @@
 - Digitação - Micropro
 
 ---
-# IDIOMAS:
+# EXPERIÊNCIA:
+2018 - ATUALMENTE
+- Analista de suporte - SUPERMERCADOS KAWAKAMI - MARÍLIA
 
+---
+# IDIOMAS:
 - Inglês intermediário
 - Espanhol intermediário
-
