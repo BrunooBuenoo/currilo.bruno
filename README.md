@@ -1,4 +1,4 @@
-# Bruno Bueno da Silva
+# BRUNO BUENO DA SILVA
 
 ---
 # IDIOMAS:
