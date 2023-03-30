@@ -14,6 +14,15 @@
 - Analista de suporte - SUPERMERCADOS KAWAKAMI - MARÍLIA
 
 ---
+# HABILIDADES:
+
+- Boa comunicação
+
+- Autonomia
+
+- Resiliência
+
+---
 # IDIOMAS:
 - Inglês intermediário
 - Espanhol intermediário
