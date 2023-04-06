@@ -36,4 +36,5 @@ ENDEREÇO: Geracina mendes romildo n 55
 ---
 # IDIOMAS:
 - Inglês intermediário
+- Russo Intermediário 
 - Espanhol intermediário
