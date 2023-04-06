@@ -12,16 +12,16 @@ ENDEREÇO: Geracina mendes romildo n 55
 
 ---
 # FORMAÇÃO ACADÊMICA:
-- Analise e desenvolvimento de sistemas - Unimar (cursando)
-- Técnico em eletroeletrônica - SENAI
+- Análise e Desenvolvimento de Sistemas - Unimar - 2023 até 2025
+- Técnico em Eletroeletrônica - SENAI
 - Ensino Médio - SESI
-- Analista de suporte Técnico - Micropro
+- Analista de Suporte Técnico - Micropro
 - Digitação - Micropro
 
 ---
 # EXPERIÊNCIA:
 2018 - ATUALMENTE
-- Analista de suporte - SUPERMERCADOS KAWAKAMI - MARÍLIA
+- Analista de Suporte - SUPERMERCADOS KAWAKAMI - MARÍLIA
 
 ---
 # HABILIDADES:
@@ -31,6 +31,7 @@ ENDEREÇO: Geracina mendes romildo n 55
 - Autonomia
 
 - Resiliência
+
 
 ---
 # IDIOMAS:
