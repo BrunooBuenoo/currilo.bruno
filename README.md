@@ -27,9 +27,9 @@ ENDEREÇO: Geracina mendes romildo n 55
 # HABILIDADES:
 
 - Boa comunicação
-
+- Trabalho em grupo
 - Autonomia
-
+- Proativo
 - Resiliência
 
 
